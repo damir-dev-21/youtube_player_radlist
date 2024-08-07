@@ -381,7 +381,7 @@ class _YoutubePlayerState extends State<YoutubePlayer> {
                                         RemainingDuration(),
                                       ],
                                     ),
-                                    FullScreenButton(),
+                                    // FullScreenButton(),
                                   ],
                                 ),
                                 ProgressBar(
